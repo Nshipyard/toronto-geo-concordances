@@ -1,0 +1,159 @@
+hood_140,name_140,hood_158,name_158,share_of_140
+001,West Humber-Clairville (1),001,West Humber-Clairville,1.0
+002,Mount Olive-Silverstone-Jamestown (2),002,Mount Olive-Silverstone-Jamestown,1.0
+003,Thistletown-Beaumond Heights (3),003,Thistletown-Beaumond Heights,1.0
+004,Rexdale-Kipling (4),004,Rexdale-Kipling,1.0
+005,Elms-Old Rexdale (5),005,Elms-Old Rexdale,0.9999
+006,Kingsview Village-The Westway (6),006,Kingsview Village-The Westway,1.0
+007,Willowridge-Martingrove-Richview (7),007,Willowridge-Martingrove-Richview,1.0
+008,Humber Heights-Westmount (8),008,Humber Heights-Westmount,1.0
+009,Edenbridge-Humber Valley (9),009,Edenbridge-Humber Valley,1.0
+010,Princess-Rosethorn (10),010,Princess-Rosethorn,1.0
+011,Eringate-Centennial-West Deane (11),011,Eringate-Centennial-West Deane,1.0
+012,Markland Wood (12),012,Markland Wood,1.0
+013,Etobicoke West Mall (13),013,Etobicoke West Mall,0.9999
+014,Islington-City Centre West (14),159,Etobicoke City Centre,0.624
+014,Islington-City Centre West (14),158,Islington,0.376
+015,Kingsway South (15),015,Kingsway South,1.0
+016,Stonegate-Queensway (16),016,Stonegate-Queensway,1.0
+017,Mimico (includes Humber Bay Shores) (17),160,Mimico-Queensway,0.7764
+017,Mimico (includes Humber Bay Shores) (17),161,Humber Bay Shores,0.2236
+018,New Toronto (18),018,New Toronto,1.0
+019,Long Branch (19),019,Long Branch,1.0
+020,Alderwood (20),020,Alderwood,1.0
+021,Humber Summit (21),021,Humber Summit,1.0
+022,Humbermede (22),022,Humbermede,1.0
+023,Pelmo Park-Humberlea (23),023,Pelmo Park-Humberlea,1.0
+024,Black Creek (24),024,Black Creek,1.0
+025,Glenfield-Jane Heights (25),025,Glenfield-Jane Heights,1.0
+026,Downsview-Roding-CFB (26),155,Downsview,0.5525
+026,Downsview-Roding-CFB (26),154,Oakdale-Beverley Heights,0.4459
+027,York University Heights (27),027,York University Heights,1.0
+028,Rustic (28),028,Rustic,1.0
+029,Maple Leaf (29),029,Maple Leaf,1.0
+030,Brookhaven-Amesbury (30),030,Brookhaven-Amesbury,1.0
+031,Yorkdale-Glen Park (31),031,Yorkdale-Glen Park,1.0
+032,Englemount-Lawrence (32),032,Englemount-Lawrence,1.0
+033,Clanton Park (33),033,Clanton Park,1.0
+034,Bathurst Manor (34),034,Bathurst Manor,1.0
+035,Westminster-Branson (35),035,Westminster-Branson,1.0
+036,Newtonbrook West (36),036,Newtonbrook West,1.0
+037,Willowdale West (37),037,Willowdale West,1.0
+038,Lansing-Westgate (38),038,Lansing-Westgate,1.0
+039,Bedford Park-Nortown (39),039,Bedford Park-Nortown,1.0
+040,St.Andrew-Windfields (40),040,St.Andrew-Windfields,0.9997
+041,Bridle Path-Sunnybrook-York Mills (41),041,Bridle Path-Sunnybrook-York Mills,0.9997
+042,Banbury-Don Mills (42),042,Banbury-Don Mills,0.9997
+043,Victoria Village (43),043,Victoria Village,1.0
+044,Flemingdon Park (44),044,Flemingdon Park,1.0
+045,Parkwoods-Donalda (45),149,Parkwoods-O'Connor Hills,0.5555
+045,Parkwoods-Donalda (45),150,Fenside-Parkwoods,0.4439
+046,Pleasant View (46),046,Pleasant View,1.0
+047,Don Valley Village (47),047,Don Valley Village,1.0
+048,Hillcrest Village (48),048,Hillcrest Village,1.0
+049,Bayview Woods-Steeles (49),049,Bayview Woods-Steeles,1.0
+050,Newtonbrook East (50),050,Newtonbrook East,1.0
+051,Willowdale East (51),152,East Willowdale,0.6943
+051,Willowdale East (51),153,Avondale,0.2038
+051,Willowdale East (51),151,Yonge-Doris,0.0932
+052,Bayview Village (52),052,Bayview Village,1.0
+053,Henry Farm (53),053,Henry Farm,1.0
+054,O'Connor-Parkview (54),054,O'Connor-Parkview,1.0
+055,Thorncliffe Park (55),055,Thorncliffe Park,1.0
+056,Leaside-Bennington (56),056,Leaside-Bennington,1.0
+057,Broadview North (57),057,Broadview North,1.0
+058,Old East York (58),058,Old East York,1.0
+059,Danforth East York (59),059,Danforth East York,1.0
+060,Woodbine-Lumsden (60),060,Woodbine-Lumsden,1.0
+061,Taylor-Massey (61),061,Taylor-Massey,0.9999
+062,East End-Danforth (62),062,East End-Danforth,1.0
+063,The Beaches (63),063,The Beaches,1.0
+064,Woodbine Corridor (64),064,Woodbine Corridor,1.0
+065,Greenwood-Coxwell (65),065,Greenwood-Coxwell,1.0
+066,Danforth (66),066,Danforth,1.0
+067,Playter Estates-Danforth (67),067,Playter Estates-Danforth,1.0
+068,North Riverdale (68),068,North Riverdale,1.0
+069,Blake-Jones (69),069,Blake-Jones,1.0
+070,South Riverdale (70),070,South Riverdale,0.9995
+071,Cabbagetown-South St.James Town (71),071,Cabbagetown-South St.James Town,1.0
+072,Regent Park (72),072,Regent Park,1.0
+073,Moss Park (73),073,Moss Park,0.9886
+074,North St.James Town (74),074,North St.James Town,0.9994
+075,Church-Yonge Corridor (75),168,Downtown Yonge East,0.5924
+075,Church-Yonge Corridor (75),167,Church-Wellesley,0.4076
+076,Bay Street Corridor (76),170,Yonge-Bay Corridor,0.6183
+076,Bay Street Corridor (76),169,Bay-Cloverhill,0.3817
+077,Waterfront Communities-The Island (77),166,St Lawrence-East Bayfront-The Islands,0.8417
+077,Waterfront Communities-The Island (77),165,Harbourfront-CityPlace,0.0848
+077,Waterfront Communities-The Island (77),164,Wellington Place,0.073
+078,Kensington-Chinatown (78),078,Kensington-Chinatown,1.0
+079,University (79),079,University,1.0
+080,Palmerston-Little Italy (80),080,Palmerston-Little Italy,1.0
+081,Trinity-Bellwoods (81),081,Trinity-Bellwoods,1.0
+082,Niagara (82),163,Fort York-Liberty Village,0.7216
+082,Niagara (82),162,West Queen West,0.2782
+083,Dufferin Grove (83),083,Dufferin Grove,1.0
+084,Little Portugal (84),084,Little Portugal,1.0
+085,South Parkdale (85),085,South Parkdale,1.0
+086,Roncesvalles (86),086,Roncesvalles,1.0
+087,High Park-Swansea (87),087,High Park-Swansea,0.9999
+088,High Park North (88),088,High Park North,1.0
+089,Runnymede-Bloor West Village (89),089,Runnymede-Bloor West Village,0.9998
+090,Junction Area (90),090,Junction Area,0.9999
+091,Weston-Pelham Park (91),091,Weston-Pelham Park,0.9968
+092,Corso Italia-Davenport (92),092,Corso Italia-Davenport,1.0
+093,Dovercourt-Wallace Emerson-Junction (93),171,Junction-Wallace Emerson,0.5966
+093,Dovercourt-Wallace Emerson-Junction (93),172,Dovercourt Village,0.4034
+094,Wychwood (94),094,Wychwood,1.0
+095,Annex (95),095,Annex,1.0
+096,Casa Loma (96),096,Casa Loma,1.0
+097,Yonge-St.Clair (97),097,Yonge-St.Clair,1.0
+098,Rosedale-Moore Park (98),098,Rosedale-Moore Park,0.9984
+099,Mount Pleasant East (99),099,Mount Pleasant East,0.999
+100,Yonge-Eglinton (100),100,Yonge-Eglinton,0.9999
+101,Forest Hill South (101),101,Forest Hill South,1.0
+102,Forest Hill North (102),102,Forest Hill North,1.0
+103,Lawrence Park South (103),103,Lawrence Park South,1.0
+104,Mount Pleasant West (104),174,South Eglinton-Davisville,0.7007
+104,Mount Pleasant West (104),173,North Toronto,0.2993
+105,Lawrence Park North (105),105,Lawrence Park North,1.0
+106,Humewood-Cedarvale (106),106,Humewood-Cedarvale,1.0
+107,Oakwood Village (107),107,Oakwood Village,1.0
+108,Briar Hill-Belgravia (108),108,Briar Hill-Belgravia,0.9986
+109,Caledonia-Fairbank (109),109,Caledonia-Fairbank,1.0
+110,Keelesdale-Eglinton West (110),110,Keelesdale-Eglinton West,0.9999
+111,Rockcliffe-Smythe (111),111,Rockcliffe-Smythe,1.0
+112,Beechborough-Greenbrook (112),112,Beechborough-Greenbrook,1.0
+113,Weston (113),113,Weston,1.0
+114,Lambton Baby Point (114),114,Lambton Baby Point,1.0
+115,Mount Dennis (115),115,Mount Dennis,1.0
+116,Steeles (116),116,Steeles,0.9999
+117,L'Amoreaux (117),148,East L'Amoreaux,0.5163
+117,L'Amoreaux (117),147,L'Amoreaux West,0.4837
+118,Tam O'Shanter-Sullivan (118),118,Tam O'Shanter-Sullivan,0.9999
+119,Wexford/Maryvale (119),119,Wexford/Maryvale,1.0
+120,Clairlea-Birchmount (120),120,Clairlea-Birchmount,1.0
+121,Oakridge (121),121,Oakridge,0.9998
+122,Birchcliffe-Cliffside (122),122,Birchcliffe-Cliffside,1.0
+123,Cliffcrest (123),123,Cliffcrest,0.9999
+124,Kennedy Park (124),124,Kennedy Park,1.0
+125,Ionview (125),125,Ionview,1.0
+126,Dorset Park (126),126,Dorset Park,1.0
+127,Bendale (127),156,Bendale-Glen Andrew,0.6589
+127,Bendale (127),157,Bendale South,0.341
+128,Agincourt South-Malvern West (128),128,Agincourt South-Malvern West,1.0
+129,Agincourt North (129),129,Agincourt North,1.0
+130,Milliken (130),130,Milliken,1.0
+131,Rouge (131),144,Morningside Heights,0.7714
+131,Rouge (131),143,West Rouge,0.2286
+132,Malvern (132),146,Malvern East,0.545
+132,Malvern (132),145,Malvern West,0.4544
+133,Centennial Scarborough (133),133,Centennial Scarborough,1.0
+134,Highland Creek (134),134,Highland Creek,1.0
+135,Morningside (135),135,Morningside,1.0
+136,West Hill (136),136,West Hill,1.0
+137,Woburn (137),142,Woburn North,0.5108
+137,Woburn (137),141,Golfdale-Cedarbrae-Woburn,0.4892
+138,Eglinton East (138),138,Eglinton East,1.0
+139,Scarborough Village (139),139,Scarborough Village,1.0
+140,Guildwood (140),140,Guildwood,0.9995

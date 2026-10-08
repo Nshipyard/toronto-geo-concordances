@@ -1,0 +1,688 @@
+hood_158,name_158,hood_140,name_140,share_of_158,share_of_140,is_primary
+001,West Humber-Clairville,001,West Humber-Clairville (1),1.0,1.0,1
+001,West Humber-Clairville,011,Eringate-Centennial-West Deane (11),0.0,0.0,0
+001,West Humber-Clairville,007,Willowridge-Martingrove-Richview (7),0.0,0.0,0
+001,West Humber-Clairville,006,Kingsview Village-The Westway (6),0.0,0.0,0
+001,West Humber-Clairville,005,Elms-Old Rexdale (5),0.0,0.0001,0
+001,West Humber-Clairville,004,Rexdale-Kipling (4),0.0,0.0,0
+002,Mount Olive-Silverstone-Jamestown,002,Mount Olive-Silverstone-Jamestown (2),1.0,1.0,1
+002,Mount Olive-Silverstone-Jamestown,001,West Humber-Clairville (1),0.0,0.0,0
+002,Mount Olive-Silverstone-Jamestown,003,Thistletown-Beaumond Heights (3),0.0,0.0,0
+002,Mount Olive-Silverstone-Jamestown,021,Humber Summit (21),0.0,0.0,0
+003,Thistletown-Beaumond Heights,003,Thistletown-Beaumond Heights (3),1.0,1.0,1
+003,Thistletown-Beaumond Heights,005,Elms-Old Rexdale (5),0.0,0.0,0
+003,Thistletown-Beaumond Heights,004,Rexdale-Kipling (4),0.0,0.0,0
+003,Thistletown-Beaumond Heights,022,Humbermede (22),0.0,0.0,0
+003,Thistletown-Beaumond Heights,002,Mount Olive-Silverstone-Jamestown (2),0.0,0.0,0
+004,Rexdale-Kipling,004,Rexdale-Kipling (4),1.0,1.0,1
+004,Rexdale-Kipling,001,West Humber-Clairville (1),0.0,0.0,0
+004,Rexdale-Kipling,003,Thistletown-Beaumond Heights (3),0.0,0.0,0
+005,Elms-Old Rexdale,005,Elms-Old Rexdale (5),1.0,0.9999,1
+005,Elms-Old Rexdale,006,Kingsview Village-The Westway (6),0.0,0.0,0
+005,Elms-Old Rexdale,001,West Humber-Clairville (1),0.0,0.0,0
+005,Elms-Old Rexdale,023,Pelmo Park-Humberlea (23),0.0,0.0,0
+005,Elms-Old Rexdale,004,Rexdale-Kipling (4),0.0,0.0,0
+005,Elms-Old Rexdale,003,Thistletown-Beaumond Heights (3),0.0,0.0,0
+006,Kingsview Village-The Westway,006,Kingsview Village-The Westway (6),1.0,1.0,1
+006,Kingsview Village-The Westway,007,Willowridge-Martingrove-Richview (7),0.0,0.0,0
+006,Kingsview Village-The Westway,008,Humber Heights-Westmount (8),0.0,0.0,0
+006,Kingsview Village-The Westway,113,Weston (113),0.0,0.0,0
+006,Kingsview Village-The Westway,001,West Humber-Clairville (1),0.0,0.0,0
+006,Kingsview Village-The Westway,023,Pelmo Park-Humberlea (23),0.0,0.0,0
+007,Willowridge-Martingrove-Richview,007,Willowridge-Martingrove-Richview (7),1.0,1.0,1
+007,Willowridge-Martingrove-Richview,011,Eringate-Centennial-West Deane (11),0.0,0.0,0
+007,Willowridge-Martingrove-Richview,010,Princess-Rosethorn (10),0.0,0.0,0
+007,Willowridge-Martingrove-Richview,009,Edenbridge-Humber Valley (9),0.0,0.0,0
+007,Willowridge-Martingrove-Richview,006,Kingsview Village-The Westway (6),0.0,0.0,0
+007,Willowridge-Martingrove-Richview,001,West Humber-Clairville (1),0.0,0.0,0
+008,Humber Heights-Westmount,008,Humber Heights-Westmount (8),1.0,1.0,1
+008,Humber Heights-Westmount,009,Edenbridge-Humber Valley (9),0.0,0.0,0
+008,Humber Heights-Westmount,111,Rockcliffe-Smythe (111),0.0,0.0,0
+008,Humber Heights-Westmount,007,Willowridge-Martingrove-Richview (7),0.0,0.0,0
+008,Humber Heights-Westmount,006,Kingsview Village-The Westway (6),0.0,0.0,0
+008,Humber Heights-Westmount,113,Weston (113),0.0,0.0,0
+009,Edenbridge-Humber Valley,009,Edenbridge-Humber Valley (9),1.0,1.0,1
+009,Edenbridge-Humber Valley,015,Kingsway South (15),0.0,0.0,0
+009,Edenbridge-Humber Valley,114,Lambton Baby Point (114),0.0,0.0,0
+009,Edenbridge-Humber Valley,010,Princess-Rosethorn (10),0.0,0.0,0
+009,Edenbridge-Humber Valley,111,Rockcliffe-Smythe (111),0.0,0.0,0
+010,Princess-Rosethorn,010,Princess-Rosethorn (10),1.0,1.0,1
+010,Princess-Rosethorn,014,Islington-City Centre West (14),0.0,0.0,0
+010,Princess-Rosethorn,015,Kingsway South (15),0.0,0.0,0
+010,Princess-Rosethorn,011,Eringate-Centennial-West Deane (11),0.0,0.0,0
+010,Princess-Rosethorn,007,Willowridge-Martingrove-Richview (7),0.0,0.0,0
+011,Eringate-Centennial-West Deane,011,Eringate-Centennial-West Deane (11),1.0,1.0,1
+011,Eringate-Centennial-West Deane,014,Islington-City Centre West (14),0.0,0.0,0
+011,Eringate-Centennial-West Deane,012,Markland Wood (12),0.0,0.0,0
+011,Eringate-Centennial-West Deane,013,Etobicoke West Mall (13),0.0,0.0001,0
+011,Eringate-Centennial-West Deane,007,Willowridge-Martingrove-Richview (7),0.0,0.0,0
+011,Eringate-Centennial-West Deane,001,West Humber-Clairville (1),0.0,0.0,0
+012,Markland Wood,012,Markland Wood (12),1.0,1.0,1
+012,Markland Wood,014,Islington-City Centre West (14),0.0,0.0,0
+012,Markland Wood,013,Etobicoke West Mall (13),0.0,0.0001,0
+012,Markland Wood,011,Eringate-Centennial-West Deane (11),0.0,0.0,0
+013,Etobicoke West Mall,013,Etobicoke West Mall (13),1.0,0.9999,1
+013,Etobicoke West Mall,012,Markland Wood (12),0.0,0.0,0
+013,Etobicoke West Mall,011,Eringate-Centennial-West Deane (11),0.0,0.0,0
+015,Kingsway South,015,Kingsway South (15),1.0,1.0,1
+015,Kingsway South,014,Islington-City Centre West (14),0.0,0.0,0
+015,Kingsway South,016,Stonegate-Queensway (16),0.0,0.0,0
+015,Kingsway South,114,Lambton Baby Point (114),0.0,0.0,0
+015,Kingsway South,009,Edenbridge-Humber Valley (9),0.0,0.0,0
+016,Stonegate-Queensway,016,Stonegate-Queensway (16),1.0,1.0,1
+016,Stonegate-Queensway,017,Mimico (includes Humber Bay Shores) (17),0.0,0.0,0
+016,Stonegate-Queensway,014,Islington-City Centre West (14),0.0,0.0,0
+016,Stonegate-Queensway,114,Lambton Baby Point (114),0.0,0.0,0
+016,Stonegate-Queensway,087,High Park-Swansea (87),0.0,0.0,0
+018,New Toronto,018,New Toronto (18),0.9993,1.0,1
+018,New Toronto,019,Long Branch (19),0.0,0.0,0
+019,Long Branch,019,Long Branch (19),1.0,1.0,1
+019,Long Branch,018,New Toronto (18),0.0,0.0,0
+019,Long Branch,020,Alderwood (20),0.0,0.0,0
+020,Alderwood,020,Alderwood (20),1.0,1.0,1
+020,Alderwood,019,Long Branch (19),0.0,0.0,0
+020,Alderwood,017,Mimico (includes Humber Bay Shores) (17),0.0,0.0,0
+020,Alderwood,014,Islington-City Centre West (14),0.0,0.0,0
+021,Humber Summit,021,Humber Summit (21),1.0,1.0,1
+021,Humber Summit,022,Humbermede (22),0.0,0.0,0
+021,Humber Summit,002,Mount Olive-Silverstone-Jamestown (2),0.0,0.0,0
+022,Humbermede,022,Humbermede (22),1.0,1.0,1
+022,Humbermede,023,Pelmo Park-Humberlea (23),0.0,0.0,0
+022,Humbermede,005,Elms-Old Rexdale (5),0.0,0.0,0
+022,Humbermede,026,Downsview-Roding-CFB (26),0.0,0.0,0
+022,Humbermede,003,Thistletown-Beaumond Heights (3),0.0,0.0,0
+022,Humbermede,021,Humber Summit (21),0.0,0.0,0
+023,Pelmo Park-Humberlea,023,Pelmo Park-Humberlea (23),1.0,1.0,1
+023,Pelmo Park-Humberlea,006,Kingsview Village-The Westway (6),0.0,0.0,0
+023,Pelmo Park-Humberlea,113,Weston (113),0.0,0.0,0
+023,Pelmo Park-Humberlea,005,Elms-Old Rexdale (5),0.0,0.0,0
+023,Pelmo Park-Humberlea,026,Downsview-Roding-CFB (26),0.0,0.0,0
+024,Black Creek,024,Black Creek (24),1.0,1.0,1
+024,Black Creek,025,Glenfield-Jane Heights (25),0.0,0.0,0
+024,Black Creek,021,Humber Summit (21),0.0,0.0,0
+024,Black Creek,027,York University Heights (27),0.0,0.0,0
+025,Glenfield-Jane Heights,025,Glenfield-Jane Heights (25),0.9998,1.0,1
+025,Glenfield-Jane Heights,026,Downsview-Roding-CFB (26),0.0001,0.0,0
+025,Glenfield-Jane Heights,027,York University Heights (27),0.0001,0.0,0
+025,Glenfield-Jane Heights,022,Humbermede (22),0.0,0.0,0
+027,York University Heights,027,York University Heights (27),1.0,1.0,1
+027,York University Heights,026,Downsview-Roding-CFB (26),0.0,0.0,0
+027,York University Heights,025,Glenfield-Jane Heights (25),0.0,0.0,0
+027,York University Heights,024,Black Creek (24),0.0,0.0,0
+028,Rustic,028,Rustic (28),1.0,1.0,1
+028,Rustic,030,Brookhaven-Amesbury (30),0.0,0.0,0
+028,Rustic,023,Pelmo Park-Humberlea (23),0.0,0.0,0
+028,Rustic,029,Maple Leaf (29),0.0,0.0,0
+029,Maple Leaf,029,Maple Leaf (29),1.0,1.0,1
+029,Maple Leaf,030,Brookhaven-Amesbury (30),0.0,0.0,0
+029,Maple Leaf,028,Rustic (28),0.0,0.0,0
+030,Brookhaven-Amesbury,030,Brookhaven-Amesbury (30),1.0,1.0,1
+030,Brookhaven-Amesbury,115,Mount Dennis (115),0.0,0.0,0
+030,Brookhaven-Amesbury,112,Beechborough-Greenbrook (112),0.0,0.0,0
+030,Brookhaven-Amesbury,113,Weston (113),0.0,0.0,0
+030,Brookhaven-Amesbury,029,Maple Leaf (29),0.0,0.0,0
+031,Yorkdale-Glen Park,031,Yorkdale-Glen Park (31),1.0,1.0,1
+031,Yorkdale-Glen Park,030,Brookhaven-Amesbury (30),0.0,0.0,0
+031,Yorkdale-Glen Park,108,Briar Hill-Belgravia (108),0.0,0.0,0
+031,Yorkdale-Glen Park,102,Forest Hill North (102),0.0,0.0,0
+031,Yorkdale-Glen Park,029,Maple Leaf (29),0.0,0.0,0
+032,Englemount-Lawrence,032,Englemount-Lawrence (32),1.0,1.0,1
+032,Englemount-Lawrence,102,Forest Hill North (102),0.0,0.0,0
+032,Englemount-Lawrence,031,Yorkdale-Glen Park (31),0.0,0.0,0
+033,Clanton Park,033,Clanton Park (33),0.9943,1.0,1
+033,Clanton Park,026,Downsview-Roding-CFB (26),0.0057,0.0016,0
+033,Clanton Park,031,Yorkdale-Glen Park (31),0.0,0.0,0
+033,Clanton Park,032,Englemount-Lawrence (32),0.0,0.0,0
+033,Clanton Park,038,Lansing-Westgate (38),0.0,0.0,0
+034,Bathurst Manor,034,Bathurst Manor (34),1.0,1.0,1
+034,Bathurst Manor,026,Downsview-Roding-CFB (26),0.0,0.0,0
+034,Bathurst Manor,033,Clanton Park (33),0.0,0.0,0
+034,Bathurst Manor,038,Lansing-Westgate (38),0.0,0.0,0
+034,Bathurst Manor,027,York University Heights (27),0.0,0.0,0
+034,Bathurst Manor,035,Westminster-Branson (35),0.0,0.0,0
+035,Westminster-Branson,035,Westminster-Branson (35),1.0,1.0,1
+035,Westminster-Branson,038,Lansing-Westgate (38),0.0,0.0,0
+035,Westminster-Branson,034,Bathurst Manor (34),0.0,0.0,0
+035,Westminster-Branson,036,Newtonbrook West (36),0.0,0.0,0
+036,Newtonbrook West,036,Newtonbrook West (36),1.0,1.0,1
+036,Newtonbrook West,037,Willowdale West (37),0.0,0.0,0
+036,Newtonbrook West,035,Westminster-Branson (35),0.0,0.0,0
+037,Willowdale West,037,Willowdale West (37),1.0,1.0,1
+037,Willowdale West,038,Lansing-Westgate (38),0.0,0.0,0
+037,Willowdale West,035,Westminster-Branson (35),0.0,0.0,0
+037,Willowdale West,036,Newtonbrook West (36),0.0,0.0,0
+038,Lansing-Westgate,038,Lansing-Westgate (38),1.0,1.0,1
+038,Lansing-Westgate,039,Bedford Park-Nortown (39),0.0,0.0,0
+038,Lansing-Westgate,033,Clanton Park (33),0.0,0.0,0
+038,Lansing-Westgate,034,Bathurst Manor (34),0.0,0.0,0
+038,Lansing-Westgate,035,Westminster-Branson (35),0.0,0.0,0
+039,Bedford Park-Nortown,039,Bedford Park-Nortown (39),1.0,1.0,1
+039,Bedford Park-Nortown,102,Forest Hill North (102),0.0,0.0,0
+039,Bedford Park-Nortown,103,Lawrence Park South (103),0.0,0.0,0
+039,Bedford Park-Nortown,032,Englemount-Lawrence (32),0.0,0.0,0
+039,Bedford Park-Nortown,038,Lansing-Westgate (38),0.0,0.0,0
+039,Bedford Park-Nortown,105,Lawrence Park North (105),0.0,0.0,0
+040,St.Andrew-Windfields,040,St.Andrew-Windfields (40),0.9934,0.9997,1
+040,St.Andrew-Windfields,051,Willowdale East (51),0.006,0.0087,0
+040,St.Andrew-Windfields,045,Parkwoods-Donalda (45),0.0006,0.0006,0
+040,St.Andrew-Windfields,039,Bedford Park-Nortown (39),0.0,0.0,0
+040,St.Andrew-Windfields,041,Bridle Path-Sunnybrook-York Mills (41),0.0,0.0,0
+040,St.Andrew-Windfields,042,Banbury-Don Mills (42),0.0,0.0,0
+040,St.Andrew-Windfields,052,Bayview Village (52),0.0,0.0,0
+041,Bridle Path-Sunnybrook-York Mills,041,Bridle Path-Sunnybrook-York Mills (41),0.9996,0.9997,1
+041,Bridle Path-Sunnybrook-York Mills,042,Banbury-Don Mills (42),0.0004,0.0003,0
+041,Bridle Path-Sunnybrook-York Mills,103,Lawrence Park South (103),0.0,0.0,0
+041,Bridle Path-Sunnybrook-York Mills,099,Mount Pleasant East (99),0.0,0.0,0
+041,Bridle Path-Sunnybrook-York Mills,105,Lawrence Park North (105),0.0,0.0,0
+041,Bridle Path-Sunnybrook-York Mills,040,St.Andrew-Windfields (40),0.0,0.0,0
+042,Banbury-Don Mills,042,Banbury-Don Mills (42),0.9997,0.9997,1
+042,Banbury-Don Mills,041,Bridle Path-Sunnybrook-York Mills (41),0.0002,0.0003,0
+042,Banbury-Don Mills,043,Victoria Village (43),0.0,0.0,0
+042,Banbury-Don Mills,044,Flemingdon Park (44),0.0,0.0,0
+042,Banbury-Don Mills,045,Parkwoods-Donalda (45),0.0,0.0,0
+042,Banbury-Don Mills,040,St.Andrew-Windfields (40),0.0,0.0,0
+043,Victoria Village,043,Victoria Village (43),1.0,1.0,1
+043,Victoria Village,054,O'Connor-Parkview (54),0.0,0.0,0
+043,Victoria Village,044,Flemingdon Park (44),0.0,0.0,0
+043,Victoria Village,042,Banbury-Don Mills (42),0.0,0.0,0
+043,Victoria Village,045,Parkwoods-Donalda (45),0.0,0.0,0
+044,Flemingdon Park,044,Flemingdon Park (44),1.0,1.0,1
+044,Flemingdon Park,054,O'Connor-Parkview (54),0.0,0.0,0
+044,Flemingdon Park,043,Victoria Village (43),0.0,0.0,0
+044,Flemingdon Park,055,Thorncliffe Park (55),0.0,0.0,0
+044,Flemingdon Park,042,Banbury-Don Mills (42),0.0,0.0,0
+046,Pleasant View,046,Pleasant View (46),1.0,1.0,1
+046,Pleasant View,053,Henry Farm (53),0.0,0.0,0
+046,Pleasant View,047,Don Valley Village (47),0.0,0.0,0
+047,Don Valley Village,047,Don Valley Village (47),1.0,1.0,1
+047,Don Valley Village,053,Henry Farm (53),0.0,0.0,0
+047,Don Valley Village,052,Bayview Village (52),0.0,0.0,0
+047,Don Valley Village,048,Hillcrest Village (48),0.0,0.0,0
+048,Hillcrest Village,048,Hillcrest Village (48),1.0,1.0,1
+048,Hillcrest Village,047,Don Valley Village (47),0.0,0.0,0
+048,Hillcrest Village,049,Bayview Woods-Steeles (49),0.0,0.0,0
+049,Bayview Woods-Steeles,049,Bayview Woods-Steeles (49),1.0,1.0,1
+049,Bayview Woods-Steeles,050,Newtonbrook East (50),0.0,0.0,0
+049,Bayview Woods-Steeles,052,Bayview Village (52),0.0,0.0,0
+050,Newtonbrook East,050,Newtonbrook East (50),1.0,1.0,1
+050,Newtonbrook East,036,Newtonbrook West (36),0.0,0.0,0
+050,Newtonbrook East,051,Willowdale East (51),0.0,0.0,0
+052,Bayview Village,052,Bayview Village (52),1.0,1.0,1
+052,Bayview Village,040,St.Andrew-Windfields (40),0.0,0.0,0
+052,Bayview Village,051,Willowdale East (51),0.0,0.0,0
+052,Bayview Village,053,Henry Farm (53),0.0,0.0,0
+052,Bayview Village,047,Don Valley Village (47),0.0,0.0,0
+052,Bayview Village,049,Bayview Woods-Steeles (49),0.0,0.0,0
+053,Henry Farm,053,Henry Farm (53),0.9999,1.0,1
+053,Henry Farm,118,Tam O'Shanter-Sullivan (118),0.0001,0.0001,0
+053,Henry Farm,045,Parkwoods-Donalda (45),0.0,0.0,0
+053,Henry Farm,052,Bayview Village (52),0.0,0.0,0
+054,O'Connor-Parkview,054,O'Connor-Parkview (54),1.0,1.0,1
+054,O'Connor-Parkview,060,Woodbine-Lumsden (60),0.0,0.0,0
+054,O'Connor-Parkview,061,Taylor-Massey (61),0.0,0.0,0
+054,O'Connor-Parkview,058,Old East York (58),0.0,0.0,0
+054,O'Connor-Parkview,043,Victoria Village (43),0.0,0.0,0
+054,O'Connor-Parkview,055,Thorncliffe Park (55),0.0,0.0,0
+054,O'Connor-Parkview,044,Flemingdon Park (44),0.0,0.0,0
+055,Thorncliffe Park,055,Thorncliffe Park (55),1.0,1.0,1
+055,Thorncliffe Park,058,Old East York (58),0.0,0.0,0
+055,Thorncliffe Park,056,Leaside-Bennington (56),0.0,0.0,0
+055,Thorncliffe Park,054,O'Connor-Parkview (54),0.0,0.0,0
+056,Leaside-Bennington,056,Leaside-Bennington (56),1.0,1.0,1
+056,Leaside-Bennington,098,Rosedale-Moore Park (98),0.0,0.0,0
+056,Leaside-Bennington,057,Broadview North (57),0.0,0.0,0
+056,Leaside-Bennington,099,Mount Pleasant East (99),0.0,0.0,0
+056,Leaside-Bennington,055,Thorncliffe Park (55),0.0,0.0,0
+056,Leaside-Bennington,041,Bridle Path-Sunnybrook-York Mills (41),0.0,0.0,0
+057,Broadview North,057,Broadview North (57),1.0,1.0,1
+057,Broadview North,067,Playter Estates-Danforth (67),0.0,0.0,0
+057,Broadview North,058,Old East York (58),0.0,0.0,0
+057,Broadview North,056,Leaside-Bennington (56),0.0,0.0,0
+058,Old East York,058,Old East York (58),1.0,1.0,1
+058,Old East York,059,Danforth East York (59),0.0,0.0,0
+058,Old East York,057,Broadview North (57),0.0,0.0,0
+058,Old East York,054,O'Connor-Parkview (54),0.0,0.0,0
+059,Danforth East York,059,Danforth East York (59),1.0,1.0,1
+059,Danforth East York,066,Danforth (66),0.0,0.0,0
+059,Danforth East York,057,Broadview North (57),0.0,0.0,0
+059,Danforth East York,058,Old East York (58),0.0,0.0,0
+060,Woodbine-Lumsden,060,Woodbine-Lumsden (60),1.0,1.0,1
+060,Woodbine-Lumsden,062,East End-Danforth (62),0.0,0.0,0
+060,Woodbine-Lumsden,059,Danforth East York (59),0.0,0.0,0
+060,Woodbine-Lumsden,061,Taylor-Massey (61),0.0,0.0,0
+060,Woodbine-Lumsden,058,Old East York (58),0.0,0.0,0
+060,Woodbine-Lumsden,054,O'Connor-Parkview (54),0.0,0.0,0
+061,Taylor-Massey,061,Taylor-Massey (61),1.0,0.9999,1
+061,Taylor-Massey,062,East End-Danforth (62),0.0,0.0,0
+061,Taylor-Massey,060,Woodbine-Lumsden (60),0.0,0.0,0
+061,Taylor-Massey,054,O'Connor-Parkview (54),0.0,0.0,0
+062,East End-Danforth,062,East End-Danforth (62),1.0,1.0,1
+062,East End-Danforth,063,The Beaches (63),0.0,0.0,0
+062,East End-Danforth,064,Woodbine Corridor (64),0.0,0.0,0
+062,East End-Danforth,066,Danforth (66),0.0,0.0,0
+062,East End-Danforth,061,Taylor-Massey (61),0.0,0.0,0
+063,The Beaches,063,The Beaches (63),1.0,1.0,1
+063,The Beaches,070,South Riverdale (70),0.0,0.0,0
+063,The Beaches,065,Greenwood-Coxwell (65),0.0,0.0,0
+063,The Beaches,064,Woodbine Corridor (64),0.0,0.0,0
+063,The Beaches,062,East End-Danforth (62),0.0,0.0,0
+063,The Beaches,122,Birchcliffe-Cliffside (122),0.0,0.0,0
+064,Woodbine Corridor,064,Woodbine Corridor (64),1.0,1.0,1
+064,Woodbine Corridor,063,The Beaches (63),0.0,0.0,0
+064,Woodbine Corridor,065,Greenwood-Coxwell (65),0.0,0.0,0
+065,Greenwood-Coxwell,065,Greenwood-Coxwell (65),1.0,1.0,1
+065,Greenwood-Coxwell,070,South Riverdale (70),0.0,0.0,0
+065,Greenwood-Coxwell,063,The Beaches (63),0.0,0.0,0
+065,Greenwood-Coxwell,066,Danforth (66),0.0,0.0,0
+065,Greenwood-Coxwell,069,Blake-Jones (69),0.0,0.0,0
+066,Danforth,066,Danforth (66),1.0,1.0,1
+066,Danforth,065,Greenwood-Coxwell (65),0.0,0.0,0
+066,Danforth,064,Woodbine Corridor (64),0.0,0.0,0
+066,Danforth,059,Danforth East York (59),0.0,0.0,0
+066,Danforth,069,Blake-Jones (69),0.0,0.0,0
+066,Danforth,067,Playter Estates-Danforth (67),0.0,0.0,0
+067,Playter Estates-Danforth,067,Playter Estates-Danforth (67),1.0,1.0,1
+067,Playter Estates-Danforth,068,North Riverdale (68),0.0,0.0,0
+067,Playter Estates-Danforth,098,Rosedale-Moore Park (98),0.0,0.0,0
+068,North Riverdale,068,North Riverdale (68),1.0,1.0,1
+068,North Riverdale,070,South Riverdale (70),0.0,0.0,0
+068,North Riverdale,071,Cabbagetown-South St.James Town (71),0.0,0.0,0
+069,Blake-Jones,069,Blake-Jones (69),1.0,1.0,1
+069,Blake-Jones,070,South Riverdale (70),0.0,0.0,0
+069,Blake-Jones,066,Danforth (66),0.0,0.0,0
+069,Blake-Jones,068,North Riverdale (68),0.0,0.0,0
+070,South Riverdale,070,South Riverdale (70),0.9936,0.9995,1
+070,South Riverdale,077,Waterfront Communities-The Island (77),0.0005,0.0004,0
+070,South Riverdale,073,Moss Park (73),0.0,0.0,0
+070,South Riverdale,072,Regent Park (72),0.0,0.0,0
+070,South Riverdale,063,The Beaches (63),0.0,0.0,0
+070,South Riverdale,065,Greenwood-Coxwell (65),0.0,0.0,0
+070,South Riverdale,068,North Riverdale (68),0.0,0.0,0
+070,South Riverdale,069,Blake-Jones (69),0.0,0.0,0
+071,Cabbagetown-South St.James Town,071,Cabbagetown-South St.James Town (71),1.0,1.0,1
+071,Cabbagetown-South St.James Town,073,Moss Park (73),0.0,0.0,0
+071,Cabbagetown-South St.James Town,075,Church-Yonge Corridor (75),0.0,0.0,0
+071,Cabbagetown-South St.James Town,072,Regent Park (72),0.0,0.0,0
+071,Cabbagetown-South St.James Town,074,North St.James Town (74),0.0,0.0,0
+071,Cabbagetown-South St.James Town,098,Rosedale-Moore Park (98),0.0,0.0,0
+072,Regent Park,072,Regent Park (72),1.0,1.0,1
+072,Regent Park,073,Moss Park (73),0.0,0.0,0
+072,Regent Park,071,Cabbagetown-South St.James Town (71),0.0,0.0,0
+073,Moss Park,073,Moss Park (73),1.0,0.9886,1
+073,Moss Park,077,Waterfront Communities-The Island (77),0.0,0.0,0
+073,Moss Park,075,Church-Yonge Corridor (75),0.0,0.0,0
+073,Moss Park,072,Regent Park (72),0.0,0.0,0
+073,Moss Park,071,Cabbagetown-South St.James Town (71),0.0,0.0,0
+074,North St.James Town,074,North St.James Town (74),1.0,0.9994,1
+074,North St.James Town,075,Church-Yonge Corridor (75),0.0,0.0,0
+074,North St.James Town,071,Cabbagetown-South St.James Town (71),0.0,0.0,0
+078,Kensington-Chinatown,078,Kensington-Chinatown (78),1.0,1.0,1
+078,Kensington-Chinatown,081,Trinity-Bellwoods (81),0.0,0.0,0
+078,Kensington-Chinatown,077,Waterfront Communities-The Island (77),0.0,0.0,0
+078,Kensington-Chinatown,079,University (79),0.0,0.0,0
+079,University,079,University (79),1.0,1.0,1
+079,University,080,Palmerston-Little Italy (80),0.0,0.0,0
+079,University,078,Kensington-Chinatown (78),0.0,0.0,0
+079,University,076,Bay Street Corridor (76),0.0,0.0,0
+080,Palmerston-Little Italy,080,Palmerston-Little Italy (80),1.0,1.0,1
+080,Palmerston-Little Italy,081,Trinity-Bellwoods (81),0.0,0.0,0
+080,Palmerston-Little Italy,083,Dufferin Grove (83),0.0,0.0,0
+080,Palmerston-Little Italy,093,Dovercourt-Wallace Emerson-Junction (93),0.0,0.0,0
+081,Trinity-Bellwoods,081,Trinity-Bellwoods (81),1.0,1.0,1
+081,Trinity-Bellwoods,082,Niagara (82),0.0,0.0,0
+081,Trinity-Bellwoods,084,Little Portugal (84),0.0,0.0,0
+081,Trinity-Bellwoods,078,Kensington-Chinatown (78),0.0,0.0,0
+083,Dufferin Grove,083,Dufferin Grove (83),1.0,1.0,1
+083,Dufferin Grove,084,Little Portugal (84),0.0,0.0,0
+084,Little Portugal,084,Little Portugal (84),1.0,1.0,1
+084,Little Portugal,085,South Parkdale (85),0.0,0.0,0
+084,Little Portugal,086,Roncesvalles (86),0.0,0.0,0
+085,South Parkdale,085,South Parkdale (85),1.0,1.0,1
+085,South Parkdale,017,Mimico (includes Humber Bay Shores) (17),0.0,0.0,0
+085,South Parkdale,082,Niagara (82),0.0,0.0,0
+085,South Parkdale,087,High Park-Swansea (87),0.0,0.0,0
+086,Roncesvalles,086,Roncesvalles (86),1.0,1.0,1
+086,Roncesvalles,085,South Parkdale (85),0.0,0.0,0
+086,Roncesvalles,087,High Park-Swansea (87),0.0,0.0,0
+087,High Park-Swansea,087,High Park-Swansea (87),1.0,0.9999,1
+087,High Park-Swansea,016,Stonegate-Queensway (16),0.0,0.0,0
+087,High Park-Swansea,085,South Parkdale (85),0.0,0.0,0
+087,High Park-Swansea,088,High Park North (88),0.0,0.0,0
+088,High Park North,088,High Park North (88),1.0,1.0,1
+088,High Park North,087,High Park-Swansea (87),0.0,0.0,0
+088,High Park North,089,Runnymede-Bloor West Village (89),0.0,0.0,0
+089,Runnymede-Bloor West Village,089,Runnymede-Bloor West Village (89),1.0,0.9998,1
+089,Runnymede-Bloor West Village,114,Lambton Baby Point (114),0.0,0.0,0
+089,Runnymede-Bloor West Village,087,High Park-Swansea (87),0.0,0.0,0
+090,Junction Area,090,Junction Area (90),0.9999,0.9999,1
+090,Junction Area,089,Runnymede-Bloor West Village (89),0.0001,0.0002,0
+090,Junction Area,088,High Park North (88),0.0,0.0,0
+090,Junction Area,111,Rockcliffe-Smythe (111),0.0,0.0,0
+091,Weston-Pelham Park,091,Weston-Pelham Park (91),1.0,0.9968,1
+091,Weston-Pelham Park,093,Dovercourt-Wallace Emerson-Junction (93),0.0,0.0,0
+091,Weston-Pelham Park,090,Junction Area (90),0.0,0.0,0
+091,Weston-Pelham Park,110,Keelesdale-Eglinton West (110),0.0,0.0,0
+092,Corso Italia-Davenport,092,Corso Italia-Davenport (92),0.9975,1.0,1
+092,Corso Italia-Davenport,091,Weston-Pelham Park (91),0.0025,0.0032,0
+092,Corso Italia-Davenport,093,Dovercourt-Wallace Emerson-Junction (93),0.0,0.0,0
+092,Corso Italia-Davenport,094,Wychwood (94),0.0,0.0,0
+094,Wychwood,094,Wychwood (94),1.0,1.0,1
+094,Wychwood,093,Dovercourt-Wallace Emerson-Junction (93),0.0,0.0,0
+094,Wychwood,095,Annex (95),0.0,0.0,0
+094,Wychwood,092,Corso Italia-Davenport (92),0.0,0.0,0
+094,Wychwood,107,Oakwood Village (107),0.0,0.0,0
+094,Wychwood,106,Humewood-Cedarvale (106),0.0,0.0,0
+095,Annex,095,Annex (95),1.0,1.0,1
+095,Annex,093,Dovercourt-Wallace Emerson-Junction (93),0.0,0.0,0
+095,Annex,076,Bay Street Corridor (76),0.0,0.0,0
+095,Annex,079,University (79),0.0,0.0,0
+096,Casa Loma,096,Casa Loma (96),1.0,1.0,1
+096,Casa Loma,095,Annex (95),0.0,0.0,0
+096,Casa Loma,094,Wychwood (94),0.0,0.0,0
+096,Casa Loma,101,Forest Hill South (101),0.0,0.0,0
+097,Yonge-St.Clair,097,Yonge-St.Clair (97),0.9999,1.0,1
+097,Yonge-St.Clair,100,Yonge-Eglinton (100),0.0001,0.0001,0
+097,Yonge-St.Clair,095,Annex (95),0.0,0.0,0
+097,Yonge-St.Clair,096,Casa Loma (96),0.0,0.0,0
+097,Yonge-St.Clair,101,Forest Hill South (101),0.0,0.0,0
+098,Rosedale-Moore Park,098,Rosedale-Moore Park (98),0.9999,0.9984,1
+098,Rosedale-Moore Park,074,North St.James Town (74),0.0001,0.0006,0
+098,Rosedale-Moore Park,095,Annex (95),0.0,0.0,0
+098,Rosedale-Moore Park,075,Church-Yonge Corridor (75),0.0,0.0,0
+098,Rosedale-Moore Park,071,Cabbagetown-South St.James Town (71),0.0,0.0,0
+098,Rosedale-Moore Park,067,Playter Estates-Danforth (67),0.0,0.0,0
+098,Rosedale-Moore Park,097,Yonge-St.Clair (97),0.0,0.0,0
+098,Rosedale-Moore Park,056,Leaside-Bennington (56),0.0,0.0,0
+098,Rosedale-Moore Park,099,Mount Pleasant East (99),0.0,0.0,0
+099,Mount Pleasant East,099,Mount Pleasant East (99),0.9975,0.999,1
+099,Mount Pleasant East,098,Rosedale-Moore Park (98),0.0025,0.0016,0
+099,Mount Pleasant East,103,Lawrence Park South (103),0.0,0.0,0
+099,Mount Pleasant East,097,Yonge-St.Clair (97),0.0,0.0,0
+099,Mount Pleasant East,056,Leaside-Bennington (56),0.0,0.0,0
+099,Mount Pleasant East,100,Yonge-Eglinton (100),0.0,0.0,0
+099,Mount Pleasant East,104,Mount Pleasant West (104),0.0,0.0,0
+099,Mount Pleasant East,041,Bridle Path-Sunnybrook-York Mills (41),0.0,0.0,0
+100,Yonge-Eglinton,100,Yonge-Eglinton (100),1.0,0.9999,1
+100,Yonge-Eglinton,101,Forest Hill South (101),0.0,0.0,0
+100,Yonge-Eglinton,103,Lawrence Park South (103),0.0,0.0,0
+100,Yonge-Eglinton,097,Yonge-St.Clair (97),0.0,0.0,0
+101,Forest Hill South,101,Forest Hill South (101),1.0,1.0,1
+101,Forest Hill South,096,Casa Loma (96),0.0,0.0,0
+101,Forest Hill South,106,Humewood-Cedarvale (106),0.0,0.0,0
+101,Forest Hill South,103,Lawrence Park South (103),0.0,0.0,0
+101,Forest Hill South,097,Yonge-St.Clair (97),0.0,0.0,0
+102,Forest Hill North,102,Forest Hill North (102),0.9983,1.0,1
+102,Forest Hill North,108,Briar Hill-Belgravia (108),0.0017,0.0014,0
+102,Forest Hill North,107,Oakwood Village (107),0.0,0.0,0
+102,Forest Hill North,106,Humewood-Cedarvale (106),0.0,0.0,0
+102,Forest Hill North,101,Forest Hill South (101),0.0,0.0,0
+103,Lawrence Park South,103,Lawrence Park South (103),1.0,1.0,1
+103,Lawrence Park South,101,Forest Hill South (101),0.0,0.0,0
+103,Lawrence Park South,102,Forest Hill North (102),0.0,0.0,0
+103,Lawrence Park South,039,Bedford Park-Nortown (39),0.0,0.0,0
+103,Lawrence Park South,100,Yonge-Eglinton (100),0.0,0.0,0
+103,Lawrence Park South,099,Mount Pleasant East (99),0.0,0.0,0
+103,Lawrence Park South,105,Lawrence Park North (105),0.0,0.0,0
+105,Lawrence Park North,105,Lawrence Park North (105),1.0,1.0,1
+105,Lawrence Park North,103,Lawrence Park South (103),0.0,0.0,0
+105,Lawrence Park North,039,Bedford Park-Nortown (39),0.0,0.0,0
+106,Humewood-Cedarvale,106,Humewood-Cedarvale (106),1.0,1.0,1
+106,Humewood-Cedarvale,094,Wychwood (94),0.0,0.0,0
+106,Humewood-Cedarvale,107,Oakwood Village (107),0.0,0.0,0
+107,Oakwood Village,107,Oakwood Village (107),1.0,1.0,1
+107,Oakwood Village,094,Wychwood (94),0.0,0.0,0
+107,Oakwood Village,092,Corso Italia-Davenport (92),0.0,0.0,0
+107,Oakwood Village,109,Caledonia-Fairbank (109),0.0,0.0,0
+108,Briar Hill-Belgravia,108,Briar Hill-Belgravia (108),1.0,0.9986,1
+108,Briar Hill-Belgravia,112,Beechborough-Greenbrook (112),0.0,0.0,0
+108,Briar Hill-Belgravia,109,Caledonia-Fairbank (109),0.0,0.0,0
+108,Briar Hill-Belgravia,107,Oakwood Village (107),0.0,0.0,0
+109,Caledonia-Fairbank,109,Caledonia-Fairbank (109),0.9999,1.0,1
+109,Caledonia-Fairbank,110,Keelesdale-Eglinton West (110),0.0001,0.0001,0
+109,Caledonia-Fairbank,091,Weston-Pelham Park (91),0.0,0.0,0
+109,Caledonia-Fairbank,092,Corso Italia-Davenport (92),0.0,0.0,0
+109,Caledonia-Fairbank,108,Briar Hill-Belgravia (108),0.0,0.0,0
+110,Keelesdale-Eglinton West,110,Keelesdale-Eglinton West (110),1.0,0.9999,1
+110,Keelesdale-Eglinton West,111,Rockcliffe-Smythe (111),0.0,0.0,0
+110,Keelesdale-Eglinton West,115,Mount Dennis (115),0.0,0.0,0
+110,Keelesdale-Eglinton West,091,Weston-Pelham Park (91),0.0,0.0,0
+110,Keelesdale-Eglinton West,109,Caledonia-Fairbank (109),0.0,0.0,0
+111,Rockcliffe-Smythe,111,Rockcliffe-Smythe (111),1.0,1.0,1
+111,Rockcliffe-Smythe,114,Lambton Baby Point (114),0.0,0.0,0
+111,Rockcliffe-Smythe,089,Runnymede-Bloor West Village (89),0.0,0.0,0
+111,Rockcliffe-Smythe,009,Edenbridge-Humber Valley (9),0.0,0.0,0
+111,Rockcliffe-Smythe,008,Humber Heights-Westmount (8),0.0,0.0,0
+111,Rockcliffe-Smythe,090,Junction Area (90),0.0,0.0001,0
+112,Beechborough-Greenbrook,112,Beechborough-Greenbrook (112),1.0,1.0,1
+112,Beechborough-Greenbrook,115,Mount Dennis (115),0.0,0.0,0
+112,Beechborough-Greenbrook,110,Keelesdale-Eglinton West (110),0.0,0.0,0
+113,Weston,113,Weston (113),1.0,1.0,1
+113,Weston,115,Mount Dennis (115),0.0,0.0,0
+113,Weston,008,Humber Heights-Westmount (8),0.0,0.0,0
+113,Weston,006,Kingsview Village-The Westway (6),0.0,0.0,0
+113,Weston,030,Brookhaven-Amesbury (30),0.0,0.0,0
+113,Weston,023,Pelmo Park-Humberlea (23),0.0,0.0,0
+114,Lambton Baby Point,114,Lambton Baby Point (114),0.9998,1.0,1
+114,Lambton Baby Point,087,High Park-Swansea (87),0.0002,0.0001,0
+114,Lambton Baby Point,015,Kingsway South (15),0.0,0.0,0
+114,Lambton Baby Point,089,Runnymede-Bloor West Village (89),0.0,0.0,0
+114,Lambton Baby Point,009,Edenbridge-Humber Valley (9),0.0,0.0,0
+114,Lambton Baby Point,111,Rockcliffe-Smythe (111),0.0,0.0,0
+115,Mount Dennis,115,Mount Dennis (115),1.0,1.0,1
+115,Mount Dennis,111,Rockcliffe-Smythe (111),0.0,0.0,0
+115,Mount Dennis,008,Humber Heights-Westmount (8),0.0,0.0,0
+115,Mount Dennis,113,Weston (113),0.0,0.0,0
+116,Steeles,116,Steeles (116),1.0,0.9999,1
+116,Steeles,117,L'Amoreaux (117),0.0,0.0,0
+116,Steeles,048,Hillcrest Village (48),0.0,0.0,0
+118,Tam O'Shanter-Sullivan,118,Tam O'Shanter-Sullivan (118),1.0,0.9999,1
+118,Tam O'Shanter-Sullivan,119,Wexford/Maryvale (119),0.0,0.0,0
+118,Tam O'Shanter-Sullivan,053,Henry Farm (53),0.0,0.0,0
+118,Tam O'Shanter-Sullivan,126,Dorset Park (126),0.0,0.0,0
+118,Tam O'Shanter-Sullivan,128,Agincourt South-Malvern West (128),0.0,0.0,0
+118,Tam O'Shanter-Sullivan,117,L'Amoreaux (117),0.0,0.0,0
+119,Wexford/Maryvale,119,Wexford/Maryvale (119),1.0,1.0,1
+119,Wexford/Maryvale,120,Clairlea-Birchmount (120),0.0,0.0,0
+119,Wexford/Maryvale,043,Victoria Village (43),0.0,0.0,0
+119,Wexford/Maryvale,045,Parkwoods-Donalda (45),0.0,0.0,0
+119,Wexford/Maryvale,126,Dorset Park (126),0.0,0.0,0
+120,Clairlea-Birchmount,120,Clairlea-Birchmount (120),0.9999,1.0,1
+120,Clairlea-Birchmount,121,Oakridge (121),0.0001,0.0002,0
+120,Clairlea-Birchmount,122,Birchcliffe-Cliffside (122),0.0,0.0,0
+120,Clairlea-Birchmount,061,Taylor-Massey (61),0.0,0.0,0
+120,Clairlea-Birchmount,054,O'Connor-Parkview (54),0.0,0.0,0
+120,Clairlea-Birchmount,124,Kennedy Park (124),0.0,0.0,0
+120,Clairlea-Birchmount,043,Victoria Village (43),0.0,0.0,0
+120,Clairlea-Birchmount,119,Wexford/Maryvale (119),0.0,0.0,0
+121,Oakridge,121,Oakridge (121),1.0,0.9998,1
+121,Oakridge,062,East End-Danforth (62),0.0,0.0,0
+121,Oakridge,122,Birchcliffe-Cliffside (122),0.0,0.0,0
+121,Oakridge,061,Taylor-Massey (61),0.0,0.0,0
+121,Oakridge,120,Clairlea-Birchmount (120),0.0,0.0,0
+122,Birchcliffe-Cliffside,122,Birchcliffe-Cliffside (122),1.0,1.0,1
+122,Birchcliffe-Cliffside,063,The Beaches (63),0.0,0.0,0
+122,Birchcliffe-Cliffside,062,East End-Danforth (62),0.0,0.0,0
+122,Birchcliffe-Cliffside,123,Cliffcrest (123),0.0,0.0,0
+123,Cliffcrest,123,Cliffcrest (123),1.0,0.9999,1
+123,Cliffcrest,122,Birchcliffe-Cliffside (122),0.0,0.0,0
+123,Cliffcrest,124,Kennedy Park (124),0.0,0.0,0
+124,Kennedy Park,124,Kennedy Park (124),1.0,1.0,1
+124,Kennedy Park,120,Clairlea-Birchmount (120),0.0,0.0,0
+124,Kennedy Park,123,Cliffcrest (123),0.0,0.0,0
+124,Kennedy Park,125,Ionview (125),0.0,0.0,0
+124,Kennedy Park,138,Eglinton East (138),0.0,0.0,0
+125,Ionview,125,Ionview (125),1.0,1.0,1
+125,Ionview,120,Clairlea-Birchmount (120),0.0,0.0,0
+125,Ionview,124,Kennedy Park (124),0.0,0.0,0
+125,Ionview,119,Wexford/Maryvale (119),0.0,0.0,0
+125,Ionview,126,Dorset Park (126),0.0,0.0,0
+126,Dorset Park,126,Dorset Park (126),1.0,1.0,1
+126,Dorset Park,125,Ionview (125),0.0,0.0,0
+126,Dorset Park,119,Wexford/Maryvale (119),0.0,0.0,0
+126,Dorset Park,118,Tam O'Shanter-Sullivan (118),0.0,0.0,0
+126,Dorset Park,128,Agincourt South-Malvern West (128),0.0,0.0,0
+128,Agincourt South-Malvern West,128,Agincourt South-Malvern West (128),1.0,1.0,1
+128,Agincourt South-Malvern West,126,Dorset Park (126),0.0,0.0,0
+128,Agincourt South-Malvern West,127,Bendale (127),0.0,0.0,0
+128,Agincourt South-Malvern West,137,Woburn (137),0.0,0.0,0
+128,Agincourt South-Malvern West,118,Tam O'Shanter-Sullivan (118),0.0,0.0,0
+128,Agincourt South-Malvern West,117,L'Amoreaux (117),0.0,0.0,0
+128,Agincourt South-Malvern West,132,Malvern (132),0.0,0.0,0
+128,Agincourt South-Malvern West,129,Agincourt North (129),0.0,0.0,0
+129,Agincourt North,129,Agincourt North (129),1.0,1.0,1
+129,Agincourt North,128,Agincourt South-Malvern West (128),0.0,0.0,0
+129,Agincourt North,132,Malvern (132),0.0,0.0,0
+129,Agincourt North,130,Milliken (130),0.0,0.0,0
+130,Milliken,130,Milliken (130),1.0,1.0,1
+130,Milliken,128,Agincourt South-Malvern West (128),0.0,0.0,0
+130,Milliken,117,L'Amoreaux (117),0.0,0.0,0
+130,Milliken,129,Agincourt North (129),0.0,0.0,0
+130,Milliken,116,Steeles (116),0.0,0.0,0
+133,Centennial Scarborough,133,Centennial Scarborough (133),1.0,1.0,1
+133,Centennial Scarborough,136,West Hill (136),0.0,0.0,0
+133,Centennial Scarborough,134,Highland Creek (134),0.0,0.0,0
+133,Centennial Scarborough,131,Rouge (131),0.0,0.0,0
+134,Highland Creek,134,Highland Creek (134),1.0,1.0,1
+134,Highland Creek,136,West Hill (136),0.0,0.0,0
+134,Highland Creek,135,Morningside (135),0.0,0.0,0
+134,Highland Creek,133,Centennial Scarborough (133),0.0,0.0,0
+134,Highland Creek,131,Rouge (131),0.0,0.0,0
+135,Morningside,135,Morningside (135),1.0,1.0,1
+135,Morningside,137,Woburn (137),0.0,0.0,0
+135,Morningside,136,West Hill (136),0.0,0.0,0
+135,Morningside,132,Malvern (132),0.0,0.0,0
+136,West Hill,136,West Hill (136),1.0,1.0,1
+136,West Hill,140,Guildwood (140),0.0,0.0,0
+136,West Hill,137,Woburn (137),0.0,0.0,0
+136,West Hill,135,Morningside (135),0.0,0.0,0
+136,West Hill,133,Centennial Scarborough (133),0.0,0.0,0
+138,Eglinton East,138,Eglinton East (138),1.0,1.0,1
+138,Eglinton East,123,Cliffcrest (123),0.0,0.0,0
+138,Eglinton East,124,Kennedy Park (124),0.0,0.0,0
+138,Eglinton East,125,Ionview (125),0.0,0.0,0
+138,Eglinton East,127,Bendale (127),0.0,0.0,0
+138,Eglinton East,137,Woburn (137),0.0,0.0,0
+139,Scarborough Village,139,Scarborough Village (139),0.9999,1.0,1
+139,Scarborough Village,123,Cliffcrest (123),0.0001,0.0001,0
+139,Scarborough Village,140,Guildwood (140),0.0,0.0,0
+139,Scarborough Village,137,Woburn (137),0.0,0.0,0
+140,Guildwood,140,Guildwood (140),0.9991,0.9995,1
+140,Guildwood,139,Scarborough Village (139),0.0,0.0,0
+140,Guildwood,137,Woburn (137),0.0,0.0,0
+140,Guildwood,136,West Hill (136),0.0,0.0,0
+141,Golfdale-Cedarbrae-Woburn,137,Woburn (137),1.0,0.4892,1
+141,Golfdale-Cedarbrae-Woburn,139,Scarborough Village (139),0.0,0.0,0
+141,Golfdale-Cedarbrae-Woburn,138,Eglinton East (138),0.0,0.0,0
+141,Golfdale-Cedarbrae-Woburn,140,Guildwood (140),0.0,0.0,0
+141,Golfdale-Cedarbrae-Woburn,127,Bendale (127),0.0,0.0,0
+141,Golfdale-Cedarbrae-Woburn,136,West Hill (136),0.0,0.0,0
+141,Golfdale-Cedarbrae-Woburn,135,Morningside (135),0.0,0.0,0
+142,Woburn North,137,Woburn (137),1.0,0.5108,1
+142,Woburn North,127,Bendale (127),0.0,0.0,0
+142,Woburn North,135,Morningside (135),0.0,0.0,0
+142,Woburn North,132,Malvern (132),0.0,0.0,0
+143,West Rouge,131,Rouge (131),1.0,0.2286,1
+143,West Rouge,133,Centennial Scarborough (133),0.0,0.0,0
+143,West Rouge,134,Highland Creek (134),0.0,0.0,0
+144,Morningside Heights,131,Rouge (131),0.9998,0.7714,1
+144,Morningside Heights,132,Malvern (132),0.0002,0.0006,0
+144,Morningside Heights,134,Highland Creek (134),0.0,0.0,0
+144,Morningside Heights,130,Milliken (130),0.0,0.0,0
+145,Malvern West,132,Malvern (132),0.9997,0.4544,1
+145,Malvern West,131,Rouge (131),0.0003,0.0,0
+145,Malvern West,128,Agincourt South-Malvern West (128),0.0,0.0,0
+145,Malvern West,129,Agincourt North (129),0.0,0.0,0
+146,Malvern East,132,Malvern (132),1.0,0.545,1
+146,Malvern East,137,Woburn (137),0.0,0.0,0
+146,Malvern East,135,Morningside (135),0.0,0.0,0
+146,Malvern East,128,Agincourt South-Malvern West (128),0.0,0.0,0
+147,L'Amoreaux West,117,L'Amoreaux (117),1.0,0.4837,1
+147,L'Amoreaux West,118,Tam O'Shanter-Sullivan (118),0.0,0.0,0
+147,L'Amoreaux West,046,Pleasant View (46),0.0,0.0,0
+148,East L'Amoreaux,117,L'Amoreaux (117),0.9999,0.5163,1
+148,East L'Amoreaux,116,Steeles (116),0.0001,0.0,0
+148,East L'Amoreaux,118,Tam O'Shanter-Sullivan (118),0.0,0.0,0
+149,Parkwoods-O'Connor Hills,045,Parkwoods-Donalda (45),1.0,0.5555,1
+149,Parkwoods-O'Connor Hills,043,Victoria Village (43),0.0,0.0,0
+149,Parkwoods-O'Connor Hills,042,Banbury-Don Mills (42),0.0,0.0,0
+149,Parkwoods-O'Connor Hills,040,St.Andrew-Windfields (40),0.0,0.0,0
+150,Fenside-Parkwoods,045,Parkwoods-Donalda (45),0.9993,0.4439,1
+150,Fenside-Parkwoods,040,St.Andrew-Windfields (40),0.0007,0.0003,0
+150,Fenside-Parkwoods,119,Wexford/Maryvale (119),0.0,0.0,0
+151,Yonge-Doris,051,Willowdale East (51),1.0,0.0932,1
+151,Yonge-Doris,038,Lansing-Westgate (38),0.0,0.0,0
+151,Yonge-Doris,037,Willowdale West (37),0.0,0.0,0
+152,East Willowdale,051,Willowdale East (51),1.0,0.6943,1
+152,East Willowdale,052,Bayview Village (52),0.0,0.0,0
+153,Avondale,051,Willowdale East (51),1.0,0.2038,1
+153,Avondale,038,Lansing-Westgate (38),0.0,0.0,0
+154,Oakdale-Beverley Heights,026,Downsview-Roding-CFB (26),1.0,0.4459,1
+154,Oakdale-Beverley Heights,028,Rustic (28),0.0,0.0,0
+154,Oakdale-Beverley Heights,023,Pelmo Park-Humberlea (23),0.0,0.0,0
+154,Oakdale-Beverley Heights,029,Maple Leaf (29),0.0,0.0,0
+154,Oakdale-Beverley Heights,025,Glenfield-Jane Heights (25),0.0,0.0,0
+155,Downsview,026,Downsview-Roding-CFB (26),1.0,0.5525,1
+155,Downsview,031,Yorkdale-Glen Park (31),0.0,0.0,0
+155,Downsview,029,Maple Leaf (29),0.0,0.0,0
+155,Downsview,033,Clanton Park (33),0.0,0.0,0
+155,Downsview,025,Glenfield-Jane Heights (25),0.0,0.0,0
+155,Downsview,027,York University Heights (27),0.0,0.0,0
+156,Bendale-Glen Andrew,127,Bendale (127),0.9999,0.6589,1
+156,Bendale-Glen Andrew,128,Agincourt South-Malvern West (128),0.0001,0.0,0
+156,Bendale-Glen Andrew,126,Dorset Park (126),0.0,0.0,0
+157,Bendale South,127,Bendale (127),1.0,0.341,1
+157,Bendale South,138,Eglinton East (138),0.0,0.0,0
+157,Bendale South,126,Dorset Park (126),0.0,0.0,0
+157,Bendale South,137,Woburn (137),0.0,0.0,0
+158,Islington,014,Islington-City Centre West (14),1.0,0.376,1
+158,Islington,016,Stonegate-Queensway (16),0.0,0.0,0
+158,Islington,013,Etobicoke West Mall (13),0.0,0.0,0
+158,Islington,015,Kingsway South (15),0.0,0.0,0
+158,Islington,010,Princess-Rosethorn (10),0.0,0.0,0
+159,Etobicoke City Centre,014,Islington-City Centre West (14),1.0,0.624,1
+159,Etobicoke City Centre,020,Alderwood (20),0.0,0.0,0
+159,Etobicoke City Centre,017,Mimico (includes Humber Bay Shores) (17),0.0,0.0,0
+159,Etobicoke City Centre,012,Markland Wood (12),0.0,0.0,0
+159,Etobicoke City Centre,016,Stonegate-Queensway (16),0.0,0.0,0
+160,Mimico-Queensway,017,Mimico (includes Humber Bay Shores) (17),1.0,0.7764,1
+160,Mimico-Queensway,018,New Toronto (18),0.0,0.0,0
+160,Mimico-Queensway,020,Alderwood (20),0.0,0.0,0
+160,Mimico-Queensway,016,Stonegate-Queensway (16),0.0,0.0,0
+161,Humber Bay Shores,017,Mimico (includes Humber Bay Shores) (17),0.9999,0.2236,1
+161,Humber Bay Shores,016,Stonegate-Queensway (16),0.0,0.0,0
+162,West Queen West,082,Niagara (82),1.0,0.2782,1
+162,West Queen West,084,Little Portugal (84),0.0,0.0,0
+162,West Queen West,081,Trinity-Bellwoods (81),0.0,0.0,0
+162,West Queen West,077,Waterfront Communities-The Island (77),0.0,0.0,0
+163,Fort York-Liberty Village,082,Niagara (82),0.9998,0.7216,1
+163,Fort York-Liberty Village,085,South Parkdale (85),0.0,0.0,0
+164,Wellington Place,077,Waterfront Communities-The Island (77),1.0,0.073,1
+164,Wellington Place,082,Niagara (82),0.0,0.0,0
+165,Harbourfront-CityPlace,077,Waterfront Communities-The Island (77),0.9997,0.0848,1
+165,Harbourfront-CityPlace,082,Niagara (82),0.0003,0.0001,0
+166,St Lawrence-East Bayfront-The Islands,077,Waterfront Communities-The Island (77),0.9982,0.8417,1
+166,St Lawrence-East Bayfront-The Islands,073,Moss Park (73),0.0014,0.0114,0
+166,St Lawrence-East Bayfront-The Islands,082,Niagara (82),0.0,0.0,0
+166,St Lawrence-East Bayfront-The Islands,070,South Riverdale (70),0.0,0.0,0
+167,Church-Wellesley,075,Church-Yonge Corridor (75),1.0,0.4076,1
+167,Church-Wellesley,076,Bay Street Corridor (76),0.0,0.0,0
+168,Downtown Yonge East,075,Church-Yonge Corridor (75),0.9998,0.5924,1
+168,Downtown Yonge East,077,Waterfront Communities-The Island (77),0.0002,0.0,0
+168,Downtown Yonge East,076,Bay Street Corridor (76),0.0,0.0,0
+169,Bay-Cloverhill,076,Bay Street Corridor (76),1.0,0.3817,1
+169,Bay-Cloverhill,079,University (79),0.0,0.0,0
+170,Yonge-Bay Corridor,076,Bay Street Corridor (76),1.0,0.6183,1
+170,Yonge-Bay Corridor,077,Waterfront Communities-The Island (77),0.0,0.0,0
+170,Yonge-Bay Corridor,078,Kensington-Chinatown (78),0.0,0.0,0
+171,Junction-Wallace Emerson,093,Dovercourt-Wallace Emerson-Junction (93),1.0,0.5966,1
+171,Junction-Wallace Emerson,083,Dufferin Grove (83),0.0,0.0,0
+171,Junction-Wallace Emerson,090,Junction Area (90),0.0,0.0,0
+171,Junction-Wallace Emerson,091,Weston-Pelham Park (91),0.0,0.0,0
+172,Dovercourt Village,093,Dovercourt-Wallace Emerson-Junction (93),1.0,0.4034,1
+172,Dovercourt Village,083,Dufferin Grove (83),0.0,0.0,0
+172,Dovercourt Village,080,Palmerston-Little Italy (80),0.0,0.0,0
+173,North Toronto,104,Mount Pleasant West (104),1.0,0.2993,1
+173,North Toronto,100,Yonge-Eglinton (100),0.0,0.0,0
+174,South Eglinton-Davisville,104,Mount Pleasant West (104),0.9967,0.7007,1
+174,South Eglinton-Davisville,099,Mount Pleasant East (99),0.0033,0.001,0
+174,South Eglinton-Davisville,100,Yonge-Eglinton (100),0.0,0.0,0
