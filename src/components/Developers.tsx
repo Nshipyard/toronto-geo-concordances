@@ -1,0 +1,80 @@
+"use client";
+
+import { useLang } from "@/i18n";
+
+const endpoints = [
+  {
+    method: "GET",
+    path: "/api/v1/geo/convert?from=hood_140&to=hood_158&id=077",
+    desc: "Convert one code between models",
+    response: `{
+  "hood_140": "077",
+  "hood_158": [
+    { "code": "164", "name": "Wellington Place" },
+    { "code": "165", "name": "Harbourfront-CityPlace" },
+    { "code": "166", "name": "St Lawrence-East Bayfront-The Islands" }
+  ]
+}`,
+  },
+  {
+    method: "GET",
+    path: "/api/v1/geo/lookup/hood_158/166",
+    desc: "Full record: parent, ward, split siblings",
+    response: `{
+  "code": "166",
+  "name": "St Lawrence-East Bayfront-The Islands",
+  "parent140": { "code": "077", "name": "Waterfront Communities-The Island (77)",
+                 "share_of_158": 0.9982 },
+  "ward": { "code": "10", "name": "Spadina-Fort York" },
+  "split": true
+}`,
+  },
+  {
+    method: "GET",
+    path: "/api/v1/geo/splits",
+    desc: "All 16 splits with area shares",
+    response: `{ "count": 16, "splits": [ … ] }`,
+  },
+];
+
+export default function Developers() {
+  const { t } = useLang();
+  return (
+    <section id="developers" className="bg-ink text-white">
+      <div className="mx-auto max-w-[1392px] px-6 py-20 md:py-28">
+        <p className="text-[13px] font-semibold uppercase tracking-[0.12em] text-white/60">{t.developers.kicker}</p>
+        <h2 className="display mt-4 max-w-[720px] text-[40px] md:text-[52px]">{t.developers.title}</h2>
+        <p className="mt-5 max-w-[720px] text-[18px] leading-relaxed text-white/70">{t.developers.body}</p>
+
+        <h3 className="mt-14 text-[13px] font-semibold uppercase tracking-[0.12em] text-white/60">{t.developers.endpoints}</h3>
+        <div className="mt-5 grid gap-5 lg:grid-cols-3">
+          {endpoints.map((e) => (
+            <article key={e.path} className="overflow-hidden rounded-[24px] bg-white/[0.06]">
+              <div className="border-b border-white/10 px-6 py-4">
+                <span className="mr-3 rounded-full bg-canada px-2.5 py-1 font-mono text-[12px] font-semibold">{e.method}</span>
+                <code className="font-mono text-[13px] text-white/85 break-all">{e.path}</code>
+                <p className="mt-2 text-[14px] text-white/60">{e.desc}</p>
+              </div>
+              <pre className="overflow-x-auto px-6 py-4 font-mono text-[12.5px] leading-relaxed text-white/75">{e.response}</pre>
+            </article>
+          ))}
+        </div>
+
+        <div className="mt-8 grid gap-5 lg:grid-cols-2">
+          <a href="/api/openapi.json" className="block rounded-[24px] bg-white/[0.06] p-6 hover:bg-white/[0.09]">
+            <h4 className="text-[19px] font-semibold">{t.developers.openapi}</h4>
+            <code className="mt-2 block font-mono text-[13px] text-white/60">GET /api/openapi.json</code>
+          </a>
+          <div className="rounded-[24px] bg-white/[0.06] p-6">
+            <h4 className="text-[19px] font-semibold">{t.developers.mcpTitle}</h4>
+            <p className="mt-2 text-[15px] text-white/60">{t.developers.mcpBody}</p>
+            <code className="mt-3 block font-mono text-[13px] text-white/60 break-all">POST /mcp</code>
+            <pre className="mt-3 overflow-x-auto font-mono text-[12.5px] leading-relaxed text-white/75">{`{"jsonrpc":"2.0","id":1,"method":"tools/call",
+ "params":{"name":"geo_convert",
+  "arguments":{"from":"hood_140","to":"hood_158","id":"077"}}}`}</pre>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
