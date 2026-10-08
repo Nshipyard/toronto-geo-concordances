@@ -8,6 +8,12 @@ Toronto re-cut its social-planning neighbourhoods from 140 to 158 for the 2021 c
 
 This repo publishes the mapping once, computed from the official geometries, versioned, with an explorer, a REST API, OpenAPI docs, and MCP tools.
 
+## Screenshots
+
+![Explorer: interactive Toronto map](docs/screenshots/tgc-desktop-explorer.png)
+
+![Split history detail](docs/screenshots/tgc-mobile-splits.png)
+
 ## Data
 
 | File | Contents |
