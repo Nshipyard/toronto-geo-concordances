@@ -49,3 +49,7 @@ npm run dev
 ## License
 
 MIT. Boundary geometries are © City of Toronto (open data); the concordance tables are original work.
+
+## Author
+
+**Richardson Dackam** — [X (@richardsondx)](https://x.com/richardsondx) · [GitHub](https://github.com/richardsondx)
