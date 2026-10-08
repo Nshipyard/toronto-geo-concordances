@@ -215,7 +215,7 @@ export default function Explorer() {
                         {detail.siblings.map((s) => (
                           <button key={s.code} onClick={() => setSelected(s.code)} className="block w-full rounded-2xl border border-line px-4 py-3 text-left hover:border-canada">
                             <div className="flex items-baseline justify-between gap-2">
-                              <span className="text-[15px] font-medium">{s.name}</span>
+                              <span className="min-w-0 text-[15px] font-medium">{s.name}</span>
                               <span className="font-mono text-[13px] text-ink/50">{s.code}</span>
                             </div>
                             <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-muted">

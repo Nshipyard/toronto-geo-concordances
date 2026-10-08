@@ -36,7 +36,7 @@ export default function Splits() {
                 {s.children.map((c) => (
                   <div key={c.code}>
                     <div className="flex items-baseline justify-between gap-2">
-                      <span className="text-[15px] font-medium leading-snug">{c.name}</span>
+                      <span className="min-w-0 text-[15px] font-medium leading-snug">{c.name}</span>
                       <span className="shrink-0 font-mono text-[13px] text-ink/50">{c.code}</span>
                     </div>
                     <div className="mt-1.5 h-1.5 overflow-hidden rounded-full bg-line/40">
