@@ -1,6 +1,7 @@
 "use client";
 
 import { useLang } from "@/i18n";
+import McpConnect from "./McpConnect";
 
 const endpoints = [
   {
@@ -60,20 +61,21 @@ export default function Developers() {
           ))}
         </div>
 
-        <div className="mt-8 grid gap-5 lg:grid-cols-2">
+        <div className="mt-8">
           <a href="/api/openapi.json" className="block rounded-[24px] bg-white/[0.06] p-6 hover:bg-white/[0.09]">
             <h4 className="text-[19px] font-semibold">{t.developers.openapi}</h4>
             <code className="mt-2 block font-mono text-[13px] text-white/60">GET /api/openapi.json</code>
           </a>
-          <div className="rounded-[24px] bg-white/[0.06] p-6">
-            <h4 className="text-[19px] font-semibold">{t.developers.mcpTitle}</h4>
-            <p className="mt-2 text-[15px] text-white/60">{t.developers.mcpBody}</p>
-            <code className="mt-3 block font-mono text-[13px] text-white/60 break-all">POST /mcp</code>
-            <pre className="mt-3 overflow-x-auto font-mono text-[12.5px] leading-relaxed text-white/75">{`{"jsonrpc":"2.0","id":1,"method":"tools/call",
- "params":{"name":"geo_convert",
-  "arguments":{"from":"hood_140","to":"hood_158","id":"077"}}}`}</pre>
-          </div>
         </div>
+
+        <McpConnect
+          config={{
+            slug: "toronto-geo",
+            displayName: "Toronto Geo Concordances",
+            exampleEn: "Convert neighbourhood code 077 from the 140 model to the 158 model",
+            exampleFr: "Convertis le code de quartier 077 du modèle 140 vers le modèle 158",
+          }}
+        />
       </div>
     </section>
   );
