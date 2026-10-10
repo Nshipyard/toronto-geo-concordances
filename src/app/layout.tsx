@@ -19,7 +19,7 @@ export const metadata: Metadata = {
       "The canonical crosswalk between Toronto's 140 and 158 neighbourhood models, plus ward concordances. Explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
     url: "https://geo.canada.nshipyard.com",
     siteName: "Toronto Geo Concordances",
-    images: [{ url: "/og-image.png", width: 1200, height: 750, alt: "Toronto Geo Concordances — neighbourhood boundary crosswalk" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Toronto Geo Concordances — neighbourhood boundary crosswalk" }],
     type: "website",
   },
   twitter: {
